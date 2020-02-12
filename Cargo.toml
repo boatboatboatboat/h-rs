@@ -1,0 +1,5 @@
+[package]
+name = "h"
+version = "1.0.0"
+authors = ["dpattij <boat@cock.li>"]
+edition = "2018"
